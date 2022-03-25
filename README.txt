@@ -1,6 +1,6 @@
 Hi,
 
-My name is Jakub and I am a computer programmer writing codes in java. You can find here ready solutions to tasks from colledge with descriptions, as well as my private projects.
+My name is Jakub and I am a computer programmer. You can find here ready-made solutions for college tasks with descriptions, as well as my private projects. I write in java language using IntelliJ.
 
 Contact:
 jakub.amerek@gmail.com
